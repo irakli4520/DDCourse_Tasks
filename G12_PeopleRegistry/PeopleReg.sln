@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleReg", "PeopleReg\PeopleReg.csproj", "{96EC5699-4390-4B21-87CF-CE554B4D410B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96EC5699-4390-4B21-87CF-CE554B4D410B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96EC5699-4390-4B21-87CF-CE554B4D410B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96EC5699-4390-4B21-87CF-CE554B4D410B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96EC5699-4390-4B21-87CF-CE554B4D410B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
